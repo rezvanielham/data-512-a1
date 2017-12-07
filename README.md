@@ -1,7 +1,6 @@
 ## Human Centered Data Science First Assignment: Data Curation on English Wikipedia View Metrics
 
-The goal of this notebook is to provide reproducable steps into the analysis of view metrics data provided by wikimedia foundation.
-Note:please see the Licensing details on the repository ReadMe for more details about terms of use.
+The goal of this project is to analyze the view metrics on the data provided by wikimedia foundation and provide reproducible steps to repeat this study by publishing the results in form of a Jupyter Notebook.
 In this analysis we will collect and analyze the monthly traffic metric data in the time window of January 1 2008 through September 30 2017 on English Wikipedia from two different source API servers.
 
   This README file and the Jupyter Notebook file, `hcds-a1-data-curation.ipynb`, contain the information and  
@@ -25,7 +24,7 @@ This Wikimedia Foundation data is licensed under an Apache 2.0 License, which in
 
 For more information on this license, see [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0).
 
-#### Terms of Use
+### Terms of Use
 The use of Wikipedia data is subject to the Wikimedia Foundation Terms of Use (TOU). A summary of these TOU, along with the complete terms are available [here](https://wikimediafoundation.org/wiki/Terms_of_Use/en).   
 
 ### API Documentation
