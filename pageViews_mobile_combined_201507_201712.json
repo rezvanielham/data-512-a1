@@ -1,0 +1,228 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "access": "mobile-app",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2015070100",
+            "views": 3288755294
+        },
+        {
+            "project": "en.wikipedia",
+            "access": "mobile-app",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2015080100",
+            "views": 3302333038
+        },
+        {
+            "project": "en.wikipedia",
+            "access": "mobile-app",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2015090100",
+            "views": 3170203333
+        },
+        {
+            "project": "en.wikipedia",
+            "access": "mobile-app",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2015100100",
+            "views": 3268499132
+        },
+        {
+            "project": "en.wikipedia",
+            "access": "mobile-app",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2015110100",
+            "views": 3236601070
+        },
+        {
+            "project": "en.wikipedia",
+            "access": "mobile-app",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2015120100",
+            "views": 3376275307
+        },
+        {
+            "project": "en.wikipedia",
+            "access": "mobile-app",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2016010100",
+            "views": 3717836846
+        },
+        {
+            "project": "en.wikipedia",
+            "access": "mobile-app",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2016020100",
+            "views": 3334862272
+        },
+        {
+            "project": "en.wikipedia",
+            "access": "mobile-app",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2016030100",
+            "views": 3386684191
+        },
+        {
+            "project": "en.wikipedia",
+            "access": "mobile-app",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2016040100",
+            "views": 3258764002
+        },
+        {
+            "project": "en.wikipedia",
+            "access": "mobile-app",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2016050100",
+            "views": 3395033236
+        },
+        {
+            "project": "en.wikipedia",
+            "access": "mobile-app",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2016060100",
+            "views": 3354790945
+        },
+        {
+            "project": "en.wikipedia",
+            "access": "mobile-app",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2016070100",
+            "views": 3496573762
+        },
+        {
+            "project": "en.wikipedia",
+            "access": "mobile-app",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2016080100",
+            "views": 3515819303
+        },
+        {
+            "project": "en.wikipedia",
+            "access": "mobile-app",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2016090100",
+            "views": 3393285781
+        },
+        {
+            "project": "en.wikipedia",
+            "access": "mobile-app",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2016100100",
+            "views": 3509283891
+        },
+        {
+            "project": "en.wikipedia",
+            "access": "mobile-app",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2016110100",
+            "views": 3591044925
+        },
+        {
+            "project": "en.wikipedia",
+            "access": "mobile-app",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2016120100",
+            "views": 3776543855
+        },
+        {
+            "project": "en.wikipedia",
+            "access": "mobile-app",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2017010100",
+            "views": 4231961542
+        },
+        {
+            "project": "en.wikipedia",
+            "access": "mobile-app",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2017020100",
+            "views": 3711761399
+        },
+        {
+            "project": "en.wikipedia",
+            "access": "mobile-app",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2017030100",
+            "views": 3903493989
+        },
+        {
+            "project": "en.wikipedia",
+            "access": "mobile-app",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2017040100",
+            "views": 3639623119
+        },
+        {
+            "project": "en.wikipedia",
+            "access": "mobile-app",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2017050100",
+            "views": 3686687720
+        },
+        {
+            "project": "en.wikipedia",
+            "access": "mobile-app",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2017060100",
+            "views": 3519383193
+        },
+        {
+            "project": "en.wikipedia",
+            "access": "mobile-app",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2017070100",
+            "views": 3725059253
+        },
+        {
+            "project": "en.wikipedia",
+            "access": "mobile-app",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2017080100",
+            "views": 3621406302
+        },
+        {
+            "project": "en.wikipedia",
+            "access": "mobile-app",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2017090100",
+            "views": 3531604369
+        },
+        {
+            "project": "en.wikipedia",
+            "access": "mobile-app",
+            "agent": "user",
+            "granularity": "monthly",
+            "timestamp": "2017100100",
+            "views": 3673120542
+        }
+    ]
+}
