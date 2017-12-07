@@ -2,20 +2,18 @@
 
 The goal of this notebook is to provide reproducable steps into the analysis of view metrics data provided by wikimedia foundation.
 Note:please see the Licensing details on the repository ReadMe for more details about terms of use.
-In this analysis we will collect and analyze the monthly traffic metric data in the time window of January 1 2008 through September 30 2017 on English Wikipedia from two different source API servers:
-Legacy service a.k.a the legacy Pagecounts API ( [documentation] (https://wikitech.wikimedia.org/wiki/Analytics/AQS/Legacy_Pagecounts), [endpoint] (https://wikimedia.org/api/rest_v1/#!/Pagecounts_data_(legacy)/get_metrics_legacy_pagecounts_aggregate_project_access_site_granularity_start_end)) provides access to desktop and mobile traffic data from January 2008 through July 2016.
-Current service a.k.a The Pageviews API ([documentation] (https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews), [endpoint] (https://wikimedia.org/api/rest_v1/#!/Pageviews_data/get_metrics_pageviews_aggregate_project_access_agent_granularity_start_end)) provides access to desktop, mobile web, and mobile app traffic data from July 2015 through September 2017.
+In this analysis we will collect and analyze the monthly traffic metric data in the time window of January 1 2008 through September 30 2017 on English Wikipedia from two different source API servers.
 
   This README file and the Jupyter Notebook file, `hcds-a1-data-curation.ipynb`, contain the information and  
   references needed to reproduce the analysis, including a description of the data and all relevant resources  
   and documentation, with hyperlinks to those resources.  
   
 
-#### Copyright  
+### Copyright  
 
 The Wikipedia data was gathered from the Wikimedia REST API, Wikimedia Foundation, 2017. CC-BY-SA 3.0  
 
-#### License 
+### License 
 
 This Wikimedia Foundation data is licensed under an Apache 2.0 License, which includes in part:  
 
